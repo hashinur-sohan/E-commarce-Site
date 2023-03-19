@@ -1,0 +1,18 @@
+.showData{
+    height: 350px;
+    width: 225px;
+    font-size: 10px;
+    border: 2px solid black;
+    padding: 2px;
+    margin:25px 5px 25px 5px;
+    border-radius: 2px;
+    
+}
+
+
+
+.showData img{
+    height: 250px;
+    width: 225px;
+    
+}

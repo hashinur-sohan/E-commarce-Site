@@ -1,52 +1,123 @@
 [
     {
       "index": 0,
-      "price": "$3,972.55",
-      "pic": "https://www.pexels.com/photo/close-up-shot-of-a-person-baking-7966000/",
+      "price": "$150",
+      "pic": "https://images.pexels.com/photos/264950/pexels-photo-264950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Shepherd",
       "gender": "male",
-      "company": "ANIMALIA",
+      "company": "Al-Fahad",
       "email": "shepherdthomas@animalia.com",
       "phone": "+1 (901) 538-2035"
     },
     {
       "index": 1,
       "price": "$2,713.66",
-      "pic": "https://images.pexels.com/photos/10768835/pexels-photo-10768835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "pic": "https://images.pexels.com/photos/3989394/pexels-photo-3989394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Jeanine",
       "gender": "female",
-      "company": "PHARMACON",
+      "company": "Al-Fahad",
       "email": "jeaninethomas@pharmacon.com",
       "phone": "+1 (960) 550-2104"
     },
     {
       "index": 2,
       "price": "$2,047.55",
-      "pic": "https://www.pexels.com/photo/close-up-shot-of-a-person-baking-7966000/",
+      "pic": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Leblanc",
       "gender": "male",
-      "company": "POLARIUM",
+      "company": "Al-Haramine",
       "email": "leblancthomas@polarium.com",
       "phone": "+1 (987) 552-2747"
     },
     {
       "index": 3,
       "price": "$3,236.75",
-      "pic": "https://images.pexels.com/photos/7966000/pexels-photo-7966000.jpeg",
+      "pic": "https://images.pexels.com/photos/1961791/pexels-photo-1961791.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Cain",
       "gender": "male",
-      "company": "COMVEYOR",
+      "company": "Al-Haramine",
       "email": "cainthomas@comveyor.com",
       "phone": "+1 (947) 452-2651"
     },
     {
       "index": 4,
       "price": "$2,175.16",
-      "pic": "http://placehold.it/32x32",
+      "pic": "https://images.pexels.com/photos/2090264/pexels-photo-2090264.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Rodgers",
       "gender": "male",
-      "company": "VERAQ",
+      "company": "Al-Haramine",
+      "email": "rodgersthomas@veraq.com",
+      "phone": "+1 (929) 479-3051"
+    },
+    {
+      "index": 5,
+      "price": "$2,175.16",
+      "pic": "https://images.pexels.com/photos/932587/pexels-photo-932587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rodgers",
+      "gender": "male",
+      "company": "Al-Haramine",
+      "email": "rodgersthomas@veraq.com",
+      "phone": "+1 (929) 479-3051"
+    },
+    {
+      "index": 6,
+      "price": "$2,175.16",
+      "pic": "https://images.pexels.com/photos/7796322/pexels-photo-7796322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rodgers",
+      "gender": "male",
+      "company": "Al-Haramine",
+      "email": "rodgersthomas@veraq.com",
+      "phone": "+1 (929) 479-3051"
+    },
+    {
+      "index": 7,
+      "price": "$2,175.16",
+      "pic": "https://images.pexels.com/photos/2922276/pexels-photo-2922276.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rodgers",
+      "gender": "male",
+      "company": "Al-Haramine",
+      "email": "rodgersthomas@veraq.com",
+      "phone": "+1 (929) 479-3051"
+    },
+    {
+      "index": 8,
+      "price": "$2,175.16",
+      "pic": "https://images.pexels.com/photos/7702669/pexels-photo-7702669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rodgers",
+      "gender": "male",
+      "company": "Al-Haramine",
+      "email": "rodgersthomas@veraq.com",
+      "phone": "+1 (929) 479-3051"
+    },
+    {
+      "index": 9,
+      "price": "$2,175.16",
+      "pic": "https://images.pexels.com/photos/7814534/pexels-photo-7814534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rodgers",
+      "gender": "male",
+      "company": "Al-Haramine",
+      "email": "rodgersthomas@veraq.com",
+      "phone": "+1 (929) 479-3051"
+    },
+    {
+      "index": 10,
+      "price": "$2,175.16",
+      "pic": "https://images.pexels.com/photos/1190829/pexels-photo-1190829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rodgers",
+      "gender": "male",
+      "company": "Al-Haramine",
+      "email": "rodgersthomas@veraq.com",
+      "phone": "+1 (929) 479-3051"
+    },
+    {
+      "index": 11,
+      "price": "$2,175.16",
+      "pic": "https://images.pexels.com/photos/12456282/pexels-photo-12456282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rodgers",
+      "gender": "male",
+      "company": "Al-Haramine",
       "email": "rodgersthomas@veraq.com",
       "phone": "+1 (929) 479-3051"
     }
+   
   ]

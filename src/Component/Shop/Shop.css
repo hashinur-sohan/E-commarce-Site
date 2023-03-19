@@ -2,3 +2,19 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
+
+
+.allProducts{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr ;
+justify-items: center;
+
+}
+
+/* .allProducts{
+    display: flex ;
+    flex-wrap: wrap;
+    align-content: space-between;
+    overflow: scroll;
+    
+} */
