@@ -16,7 +16,7 @@ const Header = () => {
             <div className='header_links'>
                 <a href="/shop">Shop</a>
                 <a href="/order">Order</a>
-                <a href="contact">Contact</a>
+                <a href="/contact">Contact</a>
                 <a href="/about_us">About Us</a>
             </div>
             

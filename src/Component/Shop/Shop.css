@@ -8,9 +8,25 @@
 display: grid;
 grid-template-columns: 1fr 1fr 1fr 1fr ;
 justify-items: center;
-
-
 }
+
+.addToCardDetails{
+    border: 1px solid skyblue;
+    margin: 25px 0px 25px 5px ;
+    background-color: rgba(159, 94, 15, 0.375);
+}
+
+.card-name-design{
+    text-align: center;
+}
+
+ /* .orderSummary{
+     display: grid;
+    grid-template-columns: auto; 
+    height: 50px;
+    width: 30px;
+    border: 2px solid black;
+}  */
 
 /* .allProducts{
     display: flex ;
