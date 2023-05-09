@@ -1,8 +1,8 @@
 import React from 'react';
 import './perfume.css';
 import {BsFillCartFill} from 'react-icons/bs';
-import Shop from '../Shop/Shop';
-import App from '../../App';
+// import Shop from '../Shop/Shop';
+// import App from '../../App';
 
 const Perfume = ({perfume, addToCardHandler, reset}) => {
     const {name, pic, price, company, index} =perfume;
@@ -23,7 +23,7 @@ const Perfume = ({perfume, addToCardHandler, reset}) => {
             </div>
             
             <div className='addToCard'>
-                <button onClick={ () => addToCardHandler(perfume)}>
+                <button  onClick={ () => addToCardHandler(perfume)}>
                 
                     <BsFillCartFill/>
                 </button>

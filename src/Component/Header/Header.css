@@ -10,22 +10,26 @@
     
 }
 
-.Name{
+.HeaderName{
     font-size: 15px;
+    padding-left: 100px;
+    color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
     /* padding-top: 200px; */
     
 }
 
-.logo{
+/* .logo{
     height: 80px;
     width: 80px;
     padding-left: 100px;
     
-}
+} */
 
 .header_links{
     font-size: 20px;
     padding-left: 625px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
 
 }
 

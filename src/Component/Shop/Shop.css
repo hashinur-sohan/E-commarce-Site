@@ -1,37 +1,32 @@
 .container {
-    display: grid;
-    grid-template-columns: 4fr 1fr;
+    display: flex;
 }
 
 
 .allProducts{
-display: grid;
-grid-template-columns: 1fr 1fr 1fr 1fr ;
-justify-items: center;
+display: flex;
+flex-wrap: wrap;
 }
 
 .addToCardDetails{
-    border: 1px solid skyblue;
-    margin: 25px 0px 25px 5px ;
-    background-color: rgba(159, 94, 15, 0.375);
+    border: 3px solid rgb(1, 10, 13);
+    border-radius: 5px;
+    margin: 30px 5px 25px 10px ;
+    padding-right: 70px;
+    padding-left: 20px;
+    background-color:rgba(239, 160, 56, 0.468) ;
+    width: 600px;
+    /* position: relative; */
+    position: ;
 }
 
 .card-name-design{
     text-align: center;
 }
 
- /* .orderSummary{
-     display: grid;
-    grid-template-columns: auto; 
-    height: 50px;
-    width: 30px;
-    border: 2px solid black;
-}  */
 
-/* .allProducts{
-    display: flex ;
-    flex-wrap: wrap;
-    align-content: space-between;
-    overflow: scroll;
-    
-} */
+ .orderSummary item.name{
+    border: 2px solid black;
+    margin-right: 10px;
+} 
+

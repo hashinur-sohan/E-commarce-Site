@@ -1,18 +1,19 @@
 .showPerfumeData{
-    height: 390px;
-    width: 225px;
+    height: 400px;
+    width: 240px;
     font-size: 10px;
     border: 2px solid black;
     padding: 2px;
-    margin:25px 5px 25px 5px;
-    border-radius: 2px;
+    margin:30px 10px 20px 10px;
+    border-radius: 5px;
 
 }
 
 
 
 .showPerfumeData img{
-    height: 250px;
-    width: 225px;
+    height: 260px;
+    width: 240px;
     
 }
+

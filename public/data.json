@@ -5,119 +5,84 @@
       "pic": "https://images.pexels.com/photos/264950/pexels-photo-264950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Musk",
       "gender": "male",
-      "company": "Al-Fahad",
-      "email": "shepherdthomas@animalia.com",
-      "phone": "+1 (901) 538-2035"
+      "company": "Al-Fahad"
     },
     {
       "index": 1,
       "price": "$2,713.66",
       "pic": "https://images.pexels.com/photos/3989394/pexels-photo-3989394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Amber",
-      "gender": "female",
-      "company": "Al-Fahad",
-      "email": "jeaninethomas@pharmacon.com",
-      "phone": "+1 (960) 550-2104"
+      "company": "Al-Fahad"
     },
     {
       "index": 2,
       "price": "$2,047.55",
       "pic": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Wood",
-      "gender": "male",
-      "company": "Al-Haramine",
-      "email": "leblancthomas@polarium.com",
-      "phone": "+1 (987) 552-2747"
+      "gender": "male"
     },
     {
       "index": 3,
       "price": "$3,236.75",
       "pic": "https://images.pexels.com/photos/1961791/pexels-photo-1961791.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Silver Stone",
-      "gender": "Black Angel",
-      "company": "Al-Haramine",
-      "email": "cainthomas@comveyor.com",
-      "phone": "+1 (947) 452-2651"
+      "company": "Al-Haramine"
     },
     {
       "index": 4,
       "price": "$2,175.16",
       "pic": "https://images.pexels.com/photos/2090264/pexels-photo-2090264.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Black X",
-      "gender": "male",
-      "company": "Al-Haramine",
-      "email": "rodgersthomas@veraq.com",
-      "phone": "+1 (929) 479-3051"
+      "company": "Al-Haramine"
     },
     {
       "index": 5,
       "price": "$2,175.16",
       "pic": "https://images.pexels.com/photos/932587/pexels-photo-932587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Black XS",
-      "gender": "male",
-      "company": "Al-Haramine",
-      "email": "rodgersthomas@veraq.com",
-      "phone": "+1 (929) 479-3051"
+      "company": "Al-Haramine"
     },
     {
       "index": 6,
       "price": "$2,175.16",
       "pic": "https://images.pexels.com/photos/7796322/pexels-photo-7796322.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Black XXS",
-      "gender": "male",
-      "company": "Al-Haramine",
-      "email": "rodgersthomas@veraq.com",
-      "phone": "+1 (929) 479-3051"
+      "company": "Al-Haramine"
     },
     {
       "index": 7,
       "price": "$2,175.16",
       "pic": "https://images.pexels.com/photos/2922276/pexels-photo-2922276.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Man Pure",
-      "gender": "male",
-      "company": "Al-Haramine",
-      "email": "rodgersthomas@veraq.com",
-      "phone": "+1 (929) 479-3051"
+      "company": "Al-Haramine"
     },
     {
       "index": 8,
       "price": "$2,175.16",
       "pic": "https://images.pexels.com/photos/7702669/pexels-photo-7702669.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Agar",
-      "gender": "male",
-      "company": "Al-Haramine",
-      "email": "rodgersthomas@veraq.com",
-      "phone": "+1 (929) 479-3051"
+      "company": "Al-Haramine"
     },
     {
       "index": 9,
       "price": "$2,175.16",
       "pic": "https://images.pexels.com/photos/7814534/pexels-photo-7814534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Cool Water",
-      "gender": "male",
-      "company": "Al-Haramine",
-      "email": "rodgersthomas@veraq.com",
-      "phone": "+1 (929) 479-3051"
+      "company": "Al-Haramine"
     },
     {
       "index": 10,
       "price": "$2,175.16",
       "pic": "https://images.pexels.com/photos/1190829/pexels-photo-1190829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Bakhoor",
-      "gender": "male",
-      "company": "Al-Haramine",
-      "email": "rodgersthomas@veraq.com",
-      "phone": "+1 (929) 479-3051"
+      "company": "Al-Haramine"
     },
     {
       "index": 11,
       "price": "$2,175.16",
       "pic": "https://images.pexels.com/photos/12456282/pexels-photo-12456282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Irani Bakhoor",
-      "gender": "male",
-      "company": "Al-Haramine",
-      "email": "rodgersthomas@veraq.com",
-      "phone": "+1 (929) 479-3051"
+      "company": "Al-Haramine"
     }
    
   ]

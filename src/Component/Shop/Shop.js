@@ -20,13 +20,23 @@ const Shop = () => {
         console.log(newCartData);
     }
     const reset =(cartData) => {
-        // cartData.remove();
-        // console.log({cartData});
         setCartData([]);
-        console.log(setCartData([]));
+        
     }
-    //console.log(reset);
-    // const reset =setCartData([]);
+    
+    //  const chooseOneForMe = (addToCardHandler) => {
+    //   //  addToCardHandler.random();
+    //     const r= Math.floor(Math.random() * addToCardHandler*length);
+    //     const item = addToCardHandler[r];
+    //     return item;
+
+    //     console.log(cartData);
+    //     console.log(typeof(cartData));
+    //     const d =cartData.name;
+    //     d.random();
+    //     console.log();
+     //}
+    
 
     return (
         <div className='container'>
@@ -34,7 +44,7 @@ const Shop = () => {
                 {
                     perfumes.map(perfume=> <Perfume
                          key={perfume.index} 
-                         perfume={perfume} addToCardHandler={addToCardHandler} reset={reset}
+                         perfume={perfume} addToCardHandler={addToCardHandler} reset={reset}  
                          />)
                 }
             </div>
@@ -48,8 +58,14 @@ const Shop = () => {
                         )
                     }
                     {
-                        <button onClick={() => reset(cartData)}>Reset</button>
+                        <button onClick={() => reset(cartData)}>Choose Again</button>
                     }
+                    {/* <div>
+                    {
+                        <button onClick={() => chooseOneForMe(addToCardHandler)}>Choose </button>
+                    }
+                    </div> */}
+                    
                 
                 </div>
             </div>
