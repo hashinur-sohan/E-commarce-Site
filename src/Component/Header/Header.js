@@ -5,10 +5,6 @@ const Header = () => {
     return (
         <div className='Header'>
             
-            {/* <nav className='logo'>
-               
-            <img src={logo} alt=""/>
-            </nav> */}
             <div className='HeaderName'>
                 <h1>Al-Haramine</h1>
             </div>

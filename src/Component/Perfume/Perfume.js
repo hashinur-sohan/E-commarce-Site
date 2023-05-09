@@ -1,15 +1,11 @@
 import React from 'react';
 import './perfume.css';
 import {BsFillCartFill} from 'react-icons/bs';
-// import Shop from '../Shop/Shop';
-// import App from '../../App';
 
 const Perfume = ({perfume, addToCardHandler, reset}) => {
     const {name, pic, price, company, index} =perfume;
 
-    //  const addToCardHandler = () => {
-    //      console.log(index);
-    //  };
+    
     
     return (
         <div className='showPerfumeData'>

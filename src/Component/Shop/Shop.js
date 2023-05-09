@@ -24,20 +24,6 @@ const Shop = () => {
         
     }
     
-    //  const chooseOneForMe = (addToCardHandler) => {
-    //   //  addToCardHandler.random();
-    //     const r= Math.floor(Math.random() * addToCardHandler*length);
-    //     const item = addToCardHandler[r];
-    //     return item;
-
-    //     console.log(cartData);
-    //     console.log(typeof(cartData));
-    //     const d =cartData.name;
-    //     d.random();
-    //     console.log();
-     //}
-    
-
     return (
         <div className='container'>
             <div className="allProducts"> 
@@ -59,14 +45,7 @@ const Shop = () => {
                     }
                     {
                         <button onClick={() => reset(cartData)}>Choose Again</button>
-                    }
-                    {/* <div>
-                    {
-                        <button onClick={() => chooseOneForMe(addToCardHandler)}>Choose </button>
-                    }
-                    </div> */}
-                    
-                
+                    }.
                 </div>
             </div>
         </div>

@@ -4,9 +4,8 @@
     display: flex;
     align-items: center;
     position: sticky;
-    /* padding: 0 0px; */
     top: 0;
-    /* z-index: 1; */
+   
     
 }
 
@@ -15,16 +14,11 @@
     padding-left: 100px;
     color: antiquewhite;
     font-family:Georgia, 'Times New Roman', Times, serif ;
-    /* padding-top: 200px; */
+    position: fixed;
     
 }
 
-/* .logo{
-    height: 80px;
-    width: 80px;
-    padding-left: 100px;
-    
-} */
+
 
 .header_links{
     font-size: 20px;

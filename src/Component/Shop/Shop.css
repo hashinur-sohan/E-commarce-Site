@@ -2,7 +2,6 @@
     display: flex;
 }
 
-
 .allProducts{
 display: flex;
 flex-wrap: wrap;
@@ -16,17 +15,19 @@ flex-wrap: wrap;
     padding-left: 20px;
     background-color:rgba(239, 160, 56, 0.468) ;
     width: 600px;
-    /* position: relative; */
-    position: ;
 }
 
 .card-name-design{
     text-align: center;
 }
 
-
  .orderSummary item.name{
     border: 2px solid black;
     margin-right: 10px;
 } 
+@media (max-width:688px) {
+    .allProducts {
+        flex-direction: column;
+    }
+}
 
